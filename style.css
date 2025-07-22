@@ -1,0 +1,42 @@
+
+  h1{
+    text-align: center;
+    color: #ffffff;
+  }
+body{
+  background-color: #014759;
+
+}
+.container{
+  padding:20px 20px 20px 20px;
+  width: 450px;
+  background-color: #f6f8fa;
+
+ justify-content: center;
+ align-items: center;
+}
+.parent{    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.group-c{
+  color: #ff0000;
+}
+ p{
+ text-align: center;
+ color: #ffffff;
+ font-size: 20px;
+}
+.group-d{
+width: 100%;
+}
+button{
+  background-color: #064e18;
+    color: #ffffff;
+    padding: 10px;
+    border-radius:10px;
+    margin: 15px 0px 5px 0px;
+    width:100%;
+    border:none;
+}
